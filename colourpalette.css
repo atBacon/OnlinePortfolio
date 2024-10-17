@@ -1,0 +1,32 @@
+:root{
+    --black: #000000;
+    --gray: #808080;
+    --white: #FFFFFF;
+    --dark_gray: #1F1F23;
+
+    
+}
+
+body{
+    background-color: var(--black);
+    color: var(--white);
+
+}
+    
+
+nav{
+    background-color: var(--gray);
+    color: var(--white);
+}
+
+.accordion-button{
+    background-color: var(--gray);
+    color: var(--white);
+    
+}
+
+.accordion-body{
+    background-color: var(--dark_gray);
+    color: var(--white);
+    
+}
